@@ -1,10 +1,7 @@
 ####################################
 ### Project 2                    ###
 ### MSBC 5030                    ###
-### Team 2                       ###
-### Neven Grgic, Sarah Wofford,  ###
-### Emily Williams, Shian Zheng, ###
-### Aditi Tripathi               ###
+### Neven Grgic                  ###
 ### 10/16/18                     ###
 ####################################
 
