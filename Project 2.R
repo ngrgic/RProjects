@@ -1,3 +1,9 @@
+#Project for Quantitative Methods course where we use R to further understand if economist John Taylor was cherry picking when he wrote
+#this article: https://economicsone.com/2011/01/14/higher-investment-best-way-to-reduce-unemployment-recent-experience-shows/
+#The outcome of the project was the realization that while he may in fact be cherry picking, the two variables of interest
+#(unemployment rate and government purchases as a % of GDP) do in fact have some relationship. Simulation of two uncorrelated variables
+#led us to this conclusion. Overall the project was an interesting application of coding and statistics.
+
 ####################################
 ### Project 2                    ###
 ### MSBC 5030                    ###
