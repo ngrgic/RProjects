@@ -5,8 +5,6 @@
 ### 10/16/18                     ###
 ####################################
 
-sink("Project 2 log", append=FALSE, split=TRUE) 
-
 #set working directory and read in data#
 setwd( 'C:/Users/ngrgi/OneDrive/Documents/MS Courses/Quantitative Methods')
 Invest <- read.csv("GCE.csv", stringsAsFactors = FALSE)
